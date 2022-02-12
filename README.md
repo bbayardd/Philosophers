@@ -6,8 +6,11 @@ N philosophers are sitting on a round table. Each have only one fork. There is a
 Program take the following argument: 
 
 num_of_philo(number of philosophers);
+
 time_to_die(philosophers should start eating in time_to_die milliseconds since to last meal or they die);
+
 time_to_eat(this time need to eating. During this time they can't die);
+
 number_of_times_each_philosopher_must_eat(This is an optional argument, in its absence, philosophers should eat until no one dies);
 
 Written in according with norminette.
