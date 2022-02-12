@@ -11,6 +11,6 @@ time_to_die(philosophers should start eating in time_to_die milliseconds since t
 
 time_to_eat(this time need to eating. During this time they can't die);
 
-number_of_times_each_philosopher_must_eat(This is an optional argument, in its absence, philosophers should eat until no one dies);
+number_of_times_each_philosopher_must_eat(this is an optional argument, in its absence, philosophers should eat until no one dies);
 
 Written in according with norminette.
